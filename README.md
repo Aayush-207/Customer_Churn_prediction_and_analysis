@@ -13,8 +13,6 @@ This project implements a complete ML pipeline to predict customer churn, includ
 
 4. Model Training & Hyperparameter Tuning
 
-5. Final Model Evaluation & Comparison
-
 ## Data Cleaning & Preprocessing
 
 1. Converted TotalCharges to numeric and handled missing values
